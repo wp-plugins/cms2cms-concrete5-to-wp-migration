@@ -7,7 +7,7 @@ Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-If you wish to take your current Concrete5 web project a level up with WordPress -  CMS2CMS: Concrete5 to WordPress Migration Plugin is an option to evaluate.
+If you wish to take your current Concrete5 web project a level up with WordPress - Concrete5 to WordPress Migration Plugin is an option to evaluate.
 
 == Description ==
 
