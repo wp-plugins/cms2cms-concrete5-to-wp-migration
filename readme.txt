@@ -13,6 +13,9 @@ If you wish to take your current Concrete5 web project a level up with WordPress
 
 If you wish to take your current Concrete5 web project a level up with WordPress -  CMS2CMS: Concrete5 to WordPress Migration Plugin is an option to evaluate. The plugin aims to minimize your personal involvement in process and performs the migration across the platforms without huge time and money investments. 
 
+= Video =
+[youtube https://www.youtube.com/watch?v=r25X5FSBwFg]
+
 *Supported WordPress versions:* 3.x (new software versions are constantly being added).
 
 = The Following Items are Supported by the Plugin: =
