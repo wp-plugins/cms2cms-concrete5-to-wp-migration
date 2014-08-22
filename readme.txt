@@ -35,6 +35,8 @@ If you wish to take your current Concrete5 web project a level up with WordPress
 * Free Demo Available - CMS2CMS users may use the option to see the website migration process in action and to estimate the results.
 * Live Support - CMS2CMS provides 24/7 support with a human behind it to help users in case of any trouble. 
 
+Find more info here: http://www.cms2cms.com/supported-cms/concrete5-to-wordpress-migration/
+
 *Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Concrete5 and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
 == Installation ==
