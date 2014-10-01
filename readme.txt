@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: Concrete5 to WordPress, Concrete5 to WordPress migration, convert Concrete5 to WordPress, migrate Concrete5 to WordPress, images, plugin
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,7 +13,7 @@ If you wish to take your current Concrete5 web project a level up with WordPress
 
 If you wish to take your current Concrete5 web project a level up with WordPress -  CMS2CMS: Concrete5 to WordPress Migration Plugin is an option to evaluate. The plugin aims to minimize your personal involvement in process and performs the migration across the platforms without huge time and money investments. 
 
-*Supported WordPress versions:* 3.x (new software versions are constantly being added).
+*Supported WordPress versions:* 4.x (new software versions are constantly being added).
 
 * *There is Free Demo available (migration of limited number of pages).*
 * *Full Migration starts from $9.*
@@ -35,7 +35,7 @@ If you wish to take your current Concrete5 web project a level up with WordPress
 * Free Demo Available - CMS2CMS users may use the option to see the website migration process in action and to estimate the results.
 * Live Support - CMS2CMS provides 24/7 support with a human behind it to help users in case of any trouble. 
 
-Find more info here: http://www.cms2cms.com/supported-cms/concrete5-to-wordpress-migration/
+Find more info here: http://www.cms2cms.com/supported-cms/concrete5-to-wordpress-migration/?utm_source=Concrete5&utm_medium=Link&utm_campaign=WordPress_plugins
 
 *Note. The plugin installs the connection bridge on WordPress website, which is necessary for data exchange between Concrete5 and WordPress websites. Once activated, you’ll be redirected to CMS2CMS website in order to complete the migration.*
 
