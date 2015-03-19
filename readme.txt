@@ -27,7 +27,9 @@ If you wish to take your current Concrete5 web project a level up with WordPress
 * *internal links*
 
 = Additional Migration Options: =
-* clear WordPress data before migration
+- clear WordPress data before migration
+- 301 redirects from old URLs to new URLs
+- forms
 
 = Features of Automated Migration: =
 * Intuitiveness - CMS2CMS service has been tailor made for each client (either an expert or an average user) to feel comfortable operating it.
